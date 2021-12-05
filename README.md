@@ -14,7 +14,7 @@ To run test, enter the path of the video file in the section of
 ```
 
 
-## Authors
+## Contributors
 
 - [@Dhruv Mahajan](https://github.com/Dhruv-Mahajan1)
 - [@Bhavya Sharma](https://github.com/BhavyaSharma0212)
