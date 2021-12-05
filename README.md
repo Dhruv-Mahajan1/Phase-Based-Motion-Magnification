@@ -13,9 +13,6 @@ To run test, enter the path of the video file in the section of
   Input and Pre-Processing
 ```
 
-```bash
-  Input and Pre-Processing
-```
 
 ## Authors
 
