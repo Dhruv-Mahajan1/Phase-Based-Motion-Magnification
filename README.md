@@ -2,7 +2,7 @@
 # Phase-Based-Motion-Magnification
 Python implementation of " Phase based motion processing " described in 2013 SIGGRAPH paper by Wadhwa, Rubinstein, Durand, and Freeman.
 
-[Link to the Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fpeople.csail.mit.edu%2Fnwadhwa%2Fphase-video%2Fphase-video.pdf&clen=12946244&chunk=true)
+[Link to the Paper](http://people.csail.mit.edu/nwadhwa/phase-video/phase-video.pdf)
 
 
 ## Running Tests
