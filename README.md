@@ -34,3 +34,11 @@ To run test, enter the path of the video file in the section of
 [video file](https://drive.google.com/file/d/10zyUErLr5XfZYGHm8anWV6x7A-MvepvV/view?usp=sharing)
 ### Quarter Octave Pyramid
 [video file](https://drive.google.com/file/d/1HGvnre-3yibvWaIZAS4bEbgvO5IWjzWL/view?usp=sharing)
+
+## References
+
+[Phase-Based Video Motion Processing](http://people.csail.mit.edu/nwadhwa/phase-video/)
+
+[ Matlab Code](https://github.com/rgov/vidmag)
+
+[Paper](http://people.csail.mit.edu/nwadhwa/phase-video/phase-video.pdf)
